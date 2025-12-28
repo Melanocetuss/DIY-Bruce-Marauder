@@ -2,4 +2,4 @@
 <img src="img/BRUCEMARAUDER.png" width="30%">
 
 # SHEMA
-![resim](img/SHEMA.png)
+<img src="img/SHEMA.png" width="40%">
