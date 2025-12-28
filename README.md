@@ -1,5 +1,6 @@
 # DIY-Bruce-Marauder
 <img src="img/BRUCEMARAUDER.png" width="30%">
+
 # Component,Description,Interface
 - ESP32-WROOM-32U
 - "2.8"" SPI TFT Display",Touchscreen Color Display,SPI
