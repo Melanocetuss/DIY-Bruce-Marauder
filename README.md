@@ -1,6 +1,6 @@
 # DIY-Bruce-Marauder
 
-# Component,Description,Interface
+# Components
 - ESP32-WROOM-32U
 - "2.8"" SPI TFT Display",Touchscreen Color Display,SPI
 - nRF24L01+ PA 
