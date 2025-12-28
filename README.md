@@ -1,5 +1,5 @@
 # DIY-Bruce-Marauder
-![resim](img/BRUCEMARAUDER.png)
+<img src="img/BRUCEMARAUDER.png" width="50%">
 
 # SHEMA
 ![resim](img/SHEMA.png)
