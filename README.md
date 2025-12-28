@@ -19,4 +19,4 @@
 <img src="img/BRUCEMARAUDER.png" width="30%">
 
 # SHEMA
-<img src="img/SHEMA.png">
+<img src="img/SHEMA.png" width="80%">
