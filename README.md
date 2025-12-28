@@ -15,6 +15,7 @@
 - Then, select the model "CYD-2432S028".
 - Connect your device via USB and click Connect/Flash.
 # IMPORTANT Browser Support: You must use Google Chrome or Microsoft Edge for the web flasher to work. Other browsers like Safari or Firefox do not support the required Web Serial API.
+
 <img src="img/BRUCEMARAUDER.png" width="30%">
 
 # SHEMA
