@@ -9,7 +9,7 @@
 
 # Firmware
 - CYD => CYD-2432S028
-- Go to bruce.computer/flasher.
+- Go to [bruce.computer/flasher](https://bruce.computer/flasher)
 - Click on the "Select Device Manufacturer/Category" dropdown.
 - Select "CYD" from the list.
 - Then, select the model "CYD-2432S028".
