@@ -1,3 +1,3 @@
 # DIY-Bruce-Marauder
 
-![resim](img/BRUCE MARAUDER.jpeg)
+![resim](img/BRUCEMARAUDER.png)
